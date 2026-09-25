@@ -1,0 +1,6 @@
+{
+  "name": "Go Sukma Drive",
+  "description": "Super App Transportasi & Layanan On-Demand untuk Mobilitas, Pengiriman, Makanan, dan Operasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
